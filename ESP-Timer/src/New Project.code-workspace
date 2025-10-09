@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "simple-Timer",
+			"path": "../../simple-Timer"
+		},
+		{
+			"name": "ESP-Timer",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
